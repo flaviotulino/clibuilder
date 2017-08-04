@@ -1,0 +1,16 @@
+{
+  "name": "clibuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.7.0",
+    "jasmine-console-reporter": "^1.2.7"
+  }
+}
